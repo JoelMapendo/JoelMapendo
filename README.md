@@ -1,51 +1,63 @@
-👋 Hi there, I’m Joel Mapendo
+<h1 align="center">Hi 👋, I'm Joel Mapendo</h1>
+<h3 align="center">💻 Developer | 🎨 Designer | 📊 Data Enthusiast</h3>
 
-💻 Passionate Developer & Creative Designer
-I'm a software developer and graphic designer with a keen interest in data analysis and creative problem-solving. I love building visually appealing and functional digital experiences that make an impact.
+---
 
-🚀 About Me
+## 🚀 About Me  
+- 🔥 Passionate Developer & Creative Designer  
+- 🎨 Skilled in **UI/UX & Graphic Design**  
+- 📊 Data Curious: Love turning raw data into insights  
+- 🌱 Currently exploring **modern frameworks** & **data-driven applications**  
 
-🧑‍💻 Tech Enthusiast: Experienced in web development, UI/UX design, and data-driven applications.
-🎨 Graphic Designer: Skilled in turning ideas into engaging visuals and user interfaces.
-📊 Data Curious: Always exploring ways to extract insights from data and use them to drive decisions.
-🌱 Currently Learning
+---
 
-Languages: HTML, CSS, Java, JavaScript, PHP, Python
-Topics: Responsive web design, backend development, API integrations, and modern frameworks.
-Always Exploring: New tools and technologies that push the boundaries of creativity and efficiency.
-🤝 Let’s Collaborate
+## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,python,java,django,laravel,bootstrap,mysql,mongodb,sqlite,git,github,vscode,figma,ai,ps" />
+</p>
 
-I'm open to collaborating on:
+---
 
-Web development projects (front-end & back-end)
-Data-driven applications and analysis
-UI/UX design and branding
-Open source contributions
-Anything that sparks creativity and innovation!
-📫 How to Reach Me
+## 🤝 Let’s Collaborate On  
+- 🌐 Full-stack web development (front & back-end)  
+- 🎨 UI/UX design & branding  
+- 📊 Data-driven projects & analysis  
+- 👐 Open-source contributions  
 
-Email: joelmapendo243@gmail.com
-LinkedIn: https://www.linkedin.com
-GitHub: https://github.com/JoelMapendo
-😄 Pronouns
+---
 
-He/Him
+## 📬 Connect With Me  
+<p align="center">
+  <a href="mailto:mjoel@bugemauniv.ac.ug"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/joelmapendo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/JoelMapendo"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.instagram.com/joel_graphiste/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/irjoelmapendo.irunva"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://pin.it/4wXwmvso5"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white"/></a>
+</p>
 
-⚡ Fun Facts
 
-I love turning ideas into digital realities.
-My coding sessions often have gospel music playing in the background! 🎶
-I enjoy learning new things and sharing knowledge with the community.
-Creativity fuels my work, whether in code or design.
-📌 Tech Stack
+---
 
-Languages: JavaScript, Python, PHP, Java, HTML, CSS
-Frameworks/Libraries: React, Node.js, Django, Laravel, Bootstrap
-Tools: Git, Figma, Adobe Creative Suite, VS Code, Adobe
-Database: MySQL, MongoDB, SQLite
-🏆 Highlights
+## ⚡ Fun Facts  
+- 🎶 My code sessions often run with gospel music in the background  
+- 🌍 Love blending creativity with problem-solving  
+- 📚 Always learning, always sharing knowledge  
 
-Contributed to various web and data projects—always striving for innovation and excellence.
-Eager to connect with fellow developers, designers, and data enthusiasts.
-Thanks for stopping by!
-Let’s create something amazing together 🚀
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoelMapendo&show_icons=true&theme=tokyonight" alt="Joel's GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoelMapendo&theme=tokyonight" />
+</p>
+
+---
+
+## 🌱 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoelMapendo&theme=tokyo-night" />
+</p>

@@ -1,27 +1,40 @@
 <h1 align="center">Hi 👋, I'm Joel Mapendo</h1>
-<h3 align="center">💻 Developer | 🎨 Designer | 📊 Data Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=3000&pause=1000&color=F9BC00&center=true&vCenter=true&width=500&lines=Frontend+Developer;Creative+Designer;UI%2FUX+Enthusiast;Turning+Ideas+into+Reality" />
+</p>
+
+<h3 align="center">🎨 Frontend Developer | UI/UX Designer | Creative Thinker</h3>
 
 ---
 
 ## 🚀 About Me  
-- 🔥 Passionate Developer & Creative Designer  
-- 🎨 Skilled in **UI/UX & Graphic Design**  
-- 📊 Data Curious: Love turning raw data into insights  
-- 🌱 Currently exploring **modern frameworks** & **data-driven applications**  
+- 🔥 Passionate **Frontend Developer & Creative Designer**  
+- 🎨 Specialized in **UI/UX & Graphic Design**  
+- 💡 Focused on building **modern, responsive, user-friendly interfaces**  
+- 🌱 Currently exploring **advanced frontend frameworks & animations**  
 
 ---
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,python,java,django,laravel,bootstrap,mysql,mongodb,sqlite,git,github,vscode,figma,ai,ps" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma,ai,ps,git,github,vscode" />
 </p>
 
 ---
 
+## 🎯 What I Do  
+- 🎨 Design clean and modern interfaces  
+- 💻 Build responsive frontend applications  
+- ⚡ Create smooth animations & user experiences  
+- 🌍 Transform ideas into interactive digital products  
+
+---
+
 ## 🤝 Let’s Collaborate On  
-- 🌐 Full-stack web development (front & back-end)  
-- 🎨 UI/UX design & branding  
-- 📊 Data-driven projects & analysis  
+- 🌐 Frontend Web Development  
+- 🎨 UI/UX Design & Branding  
+- ✨ Creative Web Experiences  
 - 👐 Open-source contributions  
 
 ---
@@ -36,28 +49,33 @@
   <a href="https://pin.it/4wXwmvso5"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white"/></a>
 </p>
 
-
 ---
 
 ## ⚡ Fun Facts  
-- 🎶 My code sessions often run with gospel music in the background  
-- 🌍 Love blending creativity with problem-solving  
-- 📚 Always learning, always sharing knowledge  
+- 🎶 I code with gospel music in the background  
+- 🎯 I love mixing creativity with logic  
+- 📚 Always learning new design & frontend trends  
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoelMapendo&show_icons=true&theme=tokyonight" alt="Joel's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JoelMapendo&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoelMapendo&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoelMapendo&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🌱 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoelMapendo&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoelMapendo&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f9bc00&height=120&section=footer"/>
 </p>

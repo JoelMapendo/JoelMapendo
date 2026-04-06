@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9bc00,100:1a1a1a&height=220&section=header&text=Joel%20Mapendo&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Joel Mapendo</h1>
 
 <p align="center">
